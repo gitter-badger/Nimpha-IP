@@ -32,11 +32,6 @@ List of systems for App:
 - Android
 
 ------------
-#### Content Table
-
-[TOC]
-
-------------
 
 ### Info to know
 
