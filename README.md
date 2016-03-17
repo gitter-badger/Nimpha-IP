@@ -2,6 +2,8 @@
 
 # Nimpha-IP Code [NQ7]
 
+[![Join the chat at https://gitter.im/CubaQ/Nimpha-IP](https://badges.gitter.im/CubaQ/Nimpha-IP.svg)](https://gitter.im/CubaQ/Nimpha-IP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ###### Assigment status **: NOT STARTED**
 
 ###### Setup up stage: The project **starts** aproximetly on **25 March**.
